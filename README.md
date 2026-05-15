@@ -1,16 +1,13 @@
-## Hi there 👋
+ Hi, I'm Ellen 👋
 
-<!--
-**ell-0/ell-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student at TalTech, based in Tallinn, Estonia.
 
-Here are some ideas to get you started:
+I break things to understand them - CTFs, TryHackMe labs, and the occasional side projects that started simple and got out of hand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is security operations, but I also build small things on the side - websites, microcontroller projects, and whatever seems interesting at the time.
+
+## Fun facts
+
+- I have a perfect GPA and still feel like I know nothing
+- I'm into cars, photography, and digital art
+- English, Estonian and Russian
