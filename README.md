@@ -1,4 +1,4 @@
- Hi, I'm Ellen 👋
+# Hi, I'm Ellen 👋
 
 Cybersecurity student at TalTech, based in Tallinn, Estonia.
 
